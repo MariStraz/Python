@@ -1,0 +1,828 @@
+{
+    "locations": [
+        {
+            "id": "london_gb",
+            "active": true,
+            "name": "London",
+            "slug": "london-united-kingdom",
+            "slug_en": "london-united-kingdom",
+            "code": "LON",
+            "alternative_names": [],
+            "rank": 9,
+            "global_rank_dst": 0,
+            "dst_popularity_score": 8568939.0,
+            "timezone": "Europe/London",
+            "population": 7556900,
+            "airports": 6,
+            "stations": 6,
+            "hotels": 8104,
+            "bus_stations": 25,
+            "subdivision": null,
+            "autonomous_territory": null,
+            "country": {
+                "id": "GB",
+                "name": "United Kingdom",
+                "slug": "united-kingdom",
+                "code": "GB"
+            },
+            "region": {
+                "id": "northern-europe",
+                "name": "Northern Europe",
+                "slug": "northern-europe"
+            },
+            "continent": {
+                "id": "europe",
+                "name": "Europe",
+                "slug": "europe",
+                "code": "EU"
+            },
+            "nearby_country": null,
+            "location": {
+                "lat": 51.507351,
+                "lon": -0.127758
+            },
+            "tags": [
+                {
+                    "tag": "activities",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "city break",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "events",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "famous cities",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "sightseeing",
+                    "month_to": -1,
+                    "month_from": -1
+                }
+            ],
+            "alternative_departure_points": [
+                {
+                    "id": "GB-PORT-PORT",
+                    "distance": 119.44,
+                    "duration": 5819.1
+                },
+                {
+                    "id": "GB-PORT-POR1",
+                    "distance": 121.96,
+                    "duration": 6077.1
+                },
+                {
+                    "id": "GB-PORT-SOUT",
+                    "distance": 122.87,
+                    "duration": 6124.3
+                },
+                {
+                    "id": "SOU",
+                    "distance": 126.37,
+                    "duration": 5872.3
+                },
+                {
+                    "id": "GB-SOUT-SOUT",
+                    "distance": 128.98,
+                    "duration": 6184.1
+                },
+                {
+                    "id": "XWS",
+                    "distance": 130.31,
+                    "duration": 6231.6
+                },
+                {
+                    "id": "LCY",
+                    "distance": 14.37,
+                    "duration": 1515.8
+                },
+                {
+                    "id": "GB-COVE-COVE",
+                    "distance": 153.9,
+                    "duration": 7183.6
+                },
+                {
+                    "id": "BOH",
+                    "distance": 167.95,
+                    "duration": 7508.1
+                },
+                {
+                    "id": "BHX",
+                    "distance": 172.56,
+                    "duration": 8419.1
+                },
+                {
+                    "id": "FR-CALA-CALA",
+                    "distance": 172.95,
+                    "duration": 11475.8
+                },
+                {
+                    "id": "GB-LOND-LON0",
+                    "distance": 1.76,
+                    "duration": 229.8
+                },
+                {
+                    "id": "GB-BATH-BATH",
+                    "distance": 176.49,
+                    "duration": 8201.3
+                },
+                {
+                    "id": "QQX",
+                    "distance": 178.86,
+                    "duration": 8512.5
+                },
+                {
+                    "id": "GB-NORW-NORW",
+                    "distance": 184.06,
+                    "duration": 8527.7
+                },
+                {
+                    "id": "EMA",
+                    "distance": 186.33,
+                    "duration": 8360.3
+                },
+                {
+                    "id": "GB-BRIS-BRIS",
+                    "distance": 189.34,
+                    "duration": 8462.1
+                },
+                {
+                    "id": "QQN",
+                    "distance": 191.75,
+                    "duration": 8840
+                },
+                {
+                    "id": "GB-BIRM-BIRM",
+                    "distance": 192.76,
+                    "duration": 8929.7
+                },
+                {
+                    "id": "NWI",
+                    "distance": 203.23,
+                    "duration": 9043.3
+                },
+                {
+                    "id": "BRS",
+                    "distance": 203.91,
+                    "duration": 9702.4
+                },
+                {
+                    "id": "FR-DUNK-DUN0",
+                    "distance": 215.1,
+                    "duration": 13326.4
+                },
+                {
+                    "id": "XNE",
+                    "distance": 220.73,
+                    "duration": 9696
+                },
+                {
+                    "id": "ZMA",
+                    "distance": 225.52,
+                    "duration": 10114.4
+                },
+                {
+                    "id": "ZFI",
+                    "distance": 238.96,
+                    "duration": 10350.9
+                },
+                {
+                    "id": "GB-CARD-CAR1",
+                    "distance": 240.7,
+                    "duration": 10628.6
+                },
+                {
+                    "id": "GB-CARD-CARD",
+                    "distance": 240.76,
+                    "duration": 10526.6
+                },
+                {
+                    "id": "GB-CARD-CAR0",
+                    "distance": 242.1,
+                    "duration": 10787.8
+                },
+                {
+                    "id": "ZEP",
+                    "distance": 2.44,
+                    "duration": 259.2
+                },
+                {
+                    "id": "ZFG",
+                    "distance": 258.23,
+                    "duration": 11595.2
+                },
+                {
+                    "id": "CWL",
+                    "distance": 265.48,
+                    "duration": 11880.8
+                },
+                {
+                    "id": "EXT",
+                    "distance": 272.71,
+                    "duration": 12458
+                },
+                {
+                    "id": "GB-EXET-EXET",
+                    "distance": 274.18,
+                    "duration": 12478.9
+                },
+                {
+                    "id": "LHR",
+                    "distance": 28.29,
+                    "duration": 2142.6
+                },
+                {
+                    "id": "HUY",
+                    "distance": 299.21,
+                    "duration": 13453.7
+                },
+                {
+                    "id": "QQS",
+                    "distance": 3.54,
+                    "duration": 450.2
+                },
+                {
+                    "id": "ZLS",
+                    "distance": 4.6,
+                    "duration": 637.2
+                },
+                {
+                    "id": "QQP",
+                    "distance": 4.97,
+                    "duration": 525.4
+                },
+                {
+                    "id": "LGW",
+                    "distance": 50.21,
+                    "duration": 3719.8
+                },
+                {
+                    "id": "LTN",
+                    "distance": 56.7,
+                    "duration": 3648.8
+                },
+                {
+                    "id": "STN",
+                    "distance": 62.07,
+                    "duration": 3775.7
+                },
+                {
+                    "id": "SEN",
+                    "distance": 66.38,
+                    "duration": 3977.3
+                },
+                {
+                    "id": "XRE",
+                    "distance": 67.35,
+                    "duration": 3716.3
+                },
+                {
+                    "id": "ZFH",
+                    "distance": 82.09,
+                    "duration": 4081.8
+                },
+                {
+                    "id": "XQB",
+                    "distance": 82.72,
+                    "duration": 4110
+                },
+                {
+                    "id": "GB-BRIG-BRIG",
+                    "distance": 84.24,
+                    "duration": 5131.5
+                },
+                {
+                    "id": "GB-OXFO-OXF0",
+                    "distance": 84.87,
+                    "duration": 4193.3
+                },
+                {
+                    "id": "GB-BRIG-BRI0",
+                    "distance": 86.02,
+                    "duration": 5375.6
+                },
+                {
+                    "id": "GB-CAMB-CAM1",
+                    "distance": 91.46,
+                    "duration": 4542.7
+                },
+                {
+                    "id": "GB-OXFO-OXFO",
+                    "distance": 94.04,
+                    "duration": 4964.2
+                },
+                {
+                    "id": "GB-CAMB-CAM2",
+                    "distance": 96.04,
+                    "duration": 4983
+                },
+                {
+                    "id": "OXF",
+                    "distance": 99.35,
+                    "duration": 5143.6
+                }
+            ],
+            "providers": [
+                1028,
+                1035,
+                1053,
+                1096,
+                1148,
+                1163,
+                1165,
+                1175,
+                1224,
+                1227,
+                1229,
+                1277,
+                1282,
+                1283,
+                1284,
+                1329
+            ],
+            "car_rentals": [
+                {
+                    "provider_id": 1175,
+                    "providers_locations": [
+                        "435598",
+                        "4219166",
+                        "435613",
+                        "435763",
+                        "292504",
+                        "245304",
+                        "164574",
+                        "4343811",
+                        "4435087",
+                        "4284212",
+                        "245299",
+                        "164379",
+                        "4263809",
+                        "245309",
+                        "515988",
+                        "164754",
+                        "245314",
+                        "164389",
+                        "4397519",
+                        "1266273",
+                        "3798861",
+                        "4369995",
+                        "1389911",
+                        "553353",
+                        "679308",
+                        "1558798",
+                        "3926043",
+                        "3373006",
+                        "4125656"
+                    ]
+                },
+                {
+                    "provider_id": 1175,
+                    "providers_locations": [
+                        "3833986",
+                        "3372796",
+                        "4095663",
+                        "3372801",
+                        "435593",
+                        "336936",
+                        "4095669",
+                        "3598098",
+                        "435573",
+                        "1389971",
+                        "435588",
+                        "4095674",
+                        "4023721",
+                        "245289",
+                        "2401846",
+                        "2022713",
+                        "956598",
+                        "336986",
+                        "1641043",
+                        "285774",
+                        "336991",
+                        "435578",
+                        "3373021",
+                        "1389901",
+                        "1558998",
+                        "286054",
+                        "336901",
+                        "285954",
+                        "4142488",
+                        "3666206",
+                        "3797801",
+                        "3929717",
+                        "1389871"
+                    ]
+                }
+            ],
+            "type": "city"
+        },
+        {
+            "id": "london_on_ca",
+            "active": true,
+            "name": "London",
+            "slug": "london-ontario-canada",
+            "slug_en": "london-ontario-canada",
+            "code": "YXU",
+            "alternative_names": [],
+            "rank": 1153,
+            "global_rank_dst": 323,
+            "dst_popularity_score": 41136.0,
+            "timezone": "America/Toronto",
+            "population": 346765,
+            "airports": 1,
+            "stations": 1,
+            "hotels": 0,
+            "bus_stations": 0,
+            "subdivision": {
+                "id": "ON_CA",
+                "name": "Ontario",
+                "slug": "ontario-canada",
+                "code": "ON"
+            },
+            "autonomous_territory": null,
+            "country": {
+                "id": "CA",
+                "name": "Canada",
+                "slug": "canada",
+                "code": "CA"
+            },
+            "region": {
+                "id": "northern-america",
+                "name": "Northern America",
+                "slug": "northern-america"
+            },
+            "continent": {
+                "id": "north-america",
+                "name": "North America",
+                "slug": "north-america",
+                "code": "NA"
+            },
+            "nearby_country": null,
+            "location": {
+                "lat": 42.98695,
+                "lon": -81.243177
+            },
+            "tags": [
+                {
+                    "tag": "activities",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "city break",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "events",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "family fun",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "sightseeing",
+                    "month_to": -1,
+                    "month_from": -1
+                }
+            ],
+            "alternative_departure_points": [
+                {
+                    "id": "YKF",
+                    "distance": 107.96,
+                    "duration": 5371.8
+                },
+                {
+                    "id": "YXU",
+                    "distance": 11.62,
+                    "duration": 931.8
+                },
+                {
+                    "id": "YHM",
+                    "distance": 125.63,
+                    "duration": 5992.1
+                },
+                {
+                    "id": "YYZ",
+                    "distance": 172.98,
+                    "duration": 8451.7
+                },
+                {
+                    "id": "YQG",
+                    "distance": 182.89,
+                    "duration": 8631.2
+                },
+                {
+                    "id": "YTZ",
+                    "distance": 191.44,
+                    "duration": 9136.4
+                },
+                {
+                    "id": "IAG",
+                    "distance": 212.33,
+                    "duration": 10165.1
+                },
+                {
+                    "id": "FNT",
+                    "distance": 220.12,
+                    "duration": 10335.6
+                },
+                {
+                    "id": "DTW",
+                    "distance": 229.75,
+                    "duration": 11005.8
+                },
+                {
+                    "id": "BUF",
+                    "distance": 245.03,
+                    "duration": 11859
+                },
+                {
+                    "id": "MBS",
+                    "distance": 291.95,
+                    "duration": 13933
+                }
+            ],
+            "providers": [
+                1096,
+                1161,
+                1162,
+                1165,
+                1175,
+                1217,
+                1277,
+                1282,
+                1283
+            ],
+            "car_rentals": [
+                {
+                    "provider_id": 1175,
+                    "providers_locations": [
+                        "389436",
+                        "4127",
+                        "4309372",
+                        "1314023"
+                    ]
+                }
+            ],
+            "type": "city"
+        },
+        {
+            "id": "east-london_za",
+            "active": true,
+            "name": "East London",
+            "slug": "east-london-south-africa",
+            "slug_en": "east-london-south-africa",
+            "code": "ELS",
+            "alternative_names": [],
+            "rank": 1312,
+            "global_rank_dst": 290,
+            "dst_popularity_score": 33400.0,
+            "timezone": "Africa/Johannesburg",
+            "population": 478676,
+            "airports": 1,
+            "stations": 0,
+            "hotels": 0,
+            "bus_stations": 0,
+            "subdivision": null,
+            "autonomous_territory": null,
+            "country": {
+                "id": "ZA",
+                "name": "South Africa",
+                "slug": "south-africa",
+                "code": "ZA"
+            },
+            "region": {
+                "id": "southern-africa",
+                "name": "Southern Africa",
+                "slug": "southern-africa"
+            },
+            "continent": {
+                "id": "africa",
+                "name": "Africa",
+                "slug": "africa",
+                "code": "AF"
+            },
+            "nearby_country": null,
+            "location": {
+                "lat": -33.029158,
+                "lon": 27.854587
+            },
+            "tags": [
+                {
+                    "tag": "activities",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "city break",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "events",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "family fun",
+                    "month_to": -1,
+                    "month_from": -1
+                },
+                {
+                    "tag": "sightseeing",
+                    "month_to": -1,
+                    "month_from": -1
+                }
+            ],
+            "alternative_departure_points": [
+                {
+                    "id": "UTT",
+                    "distance": 237.97,
+                    "duration": 10601.2
+                },
+                {
+                    "id": "ELS",
+                    "distance": 5.55,
+                    "duration": 737.6
+                }
+            ],
+            "providers": [
+                1175
+            ],
+            "car_rentals": [
+                {
+                    "provider_id": 1175,
+                    "providers_locations": [
+                        "19090",
+                        "657418"
+                    ]
+                }
+            ],
+            "type": "city"
+        },
+        {
+            "id": "london_ky_us",
+            "active": true,
+            "name": "London",
+            "slug": "london-kentucky-united-states",
+            "slug_en": "london-kentucky-united-states",
+            "code": null,
+            "alternative_names": [],
+            "rank": 2048,
+            "global_rank_dst": 2048,
+            "dst_popularity_score": 0.0,
+            "timezone": "America/New_York",
+            "population": null,
+            "airports": 0,
+            "stations": 0,
+            "hotels": 11,
+            "bus_stations": 1,
+            "subdivision": {
+                "id": "KY_US",
+                "name": "Kentucky",
+                "slug": "kentucky-united-states",
+                "code": "KY"
+            },
+            "autonomous_territory": null,
+            "country": {
+                "id": "US",
+                "name": "United States",
+                "slug": "united-states",
+                "code": "US"
+            },
+            "region": {
+                "id": "northern-america",
+                "name": "Northern America",
+                "slug": "northern-america"
+            },
+            "continent": {
+                "id": "north-america",
+                "name": "North America",
+                "slug": "north-america",
+                "code": "NA"
+            },
+            "nearby_country": null,
+            "location": {
+                "lat": 37.128904,
+                "lon": -84.083292
+            },
+            "tags": [],
+            "alternative_departure_points": [
+                {
+                    "id": "LEX",
+                    "distance": 131.75,
+                    "duration": 5911.3
+                },
+                {
+                    "id": "TYS",
+                    "distance": 176.64,
+                    "duration": 7763.7
+                },
+                {
+                    "id": "SDF",
+                    "distance": 224.17,
+                    "duration": 10010.5
+                },
+                {
+                    "id": "CVG",
+                    "distance": 243.52,
+                    "duration": 10403.8
+                },
+                {
+                    "id": "TRI",
+                    "distance": 249.36,
+                    "duration": 10973.4
+                },
+                {
+                    "id": "HTS",
+                    "distance": 273.11,
+                    "duration": 11401.8
+                }
+            ],
+            "providers": [
+                1096,
+                1161,
+                1277
+            ],
+            "car_rentals": [],
+            "type": "city"
+        },
+        {
+            "id": "new-london_ct_us",
+            "active": true,
+            "name": "New London",
+            "slug": "new-london-connecticut-united-states",
+            "slug_en": "new-london-connecticut-united-states",
+            "code": null,
+            "alternative_names": [],
+            "rank": 2048,
+            "global_rank_dst": 2048,
+            "dst_popularity_score": 0.0,
+            "timezone": "America/New_York",
+            "population": null,
+            "airports": 0,
+            "stations": 1,
+            "hotels": 0,
+            "bus_stations": 0,
+            "subdivision": {
+                "id": "CT_US",
+                "name": "Connecticut",
+                "slug": "connecticut-united-states",
+                "code": "CT"
+            },
+            "autonomous_territory": null,
+            "country": {
+                "id": "US",
+                "name": "United States",
+                "slug": "united-states",
+                "code": "US"
+            },
+            "region": {
+                "id": "northern-america",
+                "name": "Northern America",
+                "slug": "northern-america"
+            },
+            "continent": {
+                "id": "north-america",
+                "name": "North America",
+                "slug": "north-america",
+                "code": "NA"
+            },
+            "nearby_country": null,
+            "location": {
+                "lat": 41.355656,
+                "lon": -72.099518
+            },
+            "tags": [],
+            "alternative_departure_points": [],
+            "providers": [
+                1096,
+                1161,
+                1162,
+                1277
+            ],
+            "car_rentals": [],
+            "type": "city"
+        }
+    ],
+    "meta": {
+        "locale": {
+            "code": "en-US",
+            "status": "Locale not specified, using default."
+        }
+    },
+    "last_refresh": 1703235796,
+    "results_retrieved": 5
+}

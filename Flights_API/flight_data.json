@@ -1,0 +1,204 @@
+{
+    "search_id": "c24efee2-04e4-6c7d-b3a7-d2828e0143b7",
+    "currency": "GBP",
+    "fx_rate": 0.868267,
+    "data": [
+        {
+            "id": "204525c34d3e0000ca474728_0|0a7c22f54d450000c34f29ed_0",
+            "flyFrom": "SEN",
+            "flyTo": "CDG",
+            "cityFrom": "London",
+            "cityCodeFrom": "LON",
+            "cityTo": "Paris",
+            "cityCodeTo": "PAR",
+            "countryFrom": {
+                "code": "GB",
+                "name": "United Kingdom"
+            },
+            "countryTo": {
+                "code": "FR",
+                "name": "France"
+            },
+            "local_departure": "2024-02-21T14:35:00.000Z",
+            "utc_departure": "2024-02-21T14:35:00.000Z",
+            "local_arrival": "2024-02-21T16:45:00.000Z",
+            "utc_arrival": "2024-02-21T15:45:00.000Z",
+            "nightsInDest": 7,
+            "quality": 101.889307,
+            "distance": 314.09,
+            "duration": {
+                "departure": 4200,
+                "return": 3900,
+                "total": 8100
+            },
+            "price": 52,
+            "conversion": {
+                "EUR": 59.88941189749236,
+                "GBP": 52
+            },
+            "fare": {
+                "adults": 52,
+                "children": 52,
+                "infants": 52
+            },
+            "discount_data": null,
+            "fare_locks": {
+                "EUR": [
+                    {
+                        "default": true,
+                        "duration": "P3D",
+                        "itinerary_price_limit": 259.889412,
+                        "itinerary_price_remaining": 59.889412,
+                        "fare_lock_kind": "fee",
+                        "price": 10,
+                        "rule_instance_id": 26748,
+                        "version": "v1"
+                    },
+                    {
+                        "default": false,
+                        "duration": "P1D",
+                        "itinerary_price_limit": 259.889412,
+                        "itinerary_price_remaining": 59.889412,
+                        "fare_lock_kind": "fee",
+                        "price": 5,
+                        "rule_instance_id": 26749,
+                        "version": "v1"
+                    },
+                    {
+                        "default": false,
+                        "duration": "P7D",
+                        "itinerary_price_limit": 259.889412,
+                        "itinerary_price_remaining": 59.889412,
+                        "fare_lock_kind": "fee",
+                        "price": 25,
+                        "rule_instance_id": 26750,
+                        "version": "v1"
+                    }
+                ],
+                "GBP": [
+                    {
+                        "default": true,
+                        "duration": "P3D",
+                        "itinerary_price_limit": 225.653400089004,
+                        "itinerary_price_remaining": 52.000000089004004,
+                        "fare_lock_kind": "fee",
+                        "price": 8.68267,
+                        "rule_instance_id": 26748,
+                        "version": "v1"
+                    },
+                    {
+                        "default": false,
+                        "duration": "P1D",
+                        "itinerary_price_limit": 225.653400089004,
+                        "itinerary_price_remaining": 52.000000089004004,
+                        "fare_lock_kind": "fee",
+                        "price": 4.341335,
+                        "rule_instance_id": 26749,
+                        "version": "v1"
+                    },
+                    {
+                        "default": false,
+                        "duration": "P7D",
+                        "itinerary_price_limit": 225.653400089004,
+                        "itinerary_price_remaining": 52.000000089004004,
+                        "fare_lock_kind": "fee",
+                        "price": 21.706675,
+                        "rule_instance_id": 26750,
+                        "version": "v1"
+                    }
+                ]
+            },
+            "bags_price": {
+                "1": 95.30966859
+            },
+            "baglimit": {
+                "hand_height": 40,
+                "hand_length": 55,
+                "hand_weight": 10,
+                "hand_width": 20,
+                "hold_dimensions_sum": 158,
+                "hold_height": 52,
+                "hold_length": 78,
+                "hold_weight": 15,
+                "hold_width": 28,
+                "personal_item_height": 30,
+                "personal_item_length": 40,
+                "personal_item_weight": 10,
+                "personal_item_width": 20
+            },
+            "availability": {
+                "seats": null
+            },
+            "airlines": [
+                "VY",
+                "U2"
+            ],
+            "route": [
+                {
+                    "id": "204525c34d3e0000ca474728_0",
+                    "combination_id": "204525c34d3e0000ca474728",
+                    "flyFrom": "SEN",
+                    "flyTo": "CDG",
+                    "cityFrom": "London",
+                    "cityCodeFrom": "LON",
+                    "cityTo": "Paris",
+                    "cityCodeTo": "PAR",
+                    "local_departure": "2024-02-21T14:35:00.000Z",
+                    "utc_departure": "2024-02-21T14:35:00.000Z",
+                    "local_arrival": "2024-02-21T16:45:00.000Z",
+                    "utc_arrival": "2024-02-21T15:45:00.000Z",
+                    "airline": "U2",
+                    "flight_no": 4646,
+                    "operating_carrier": "EC",
+                    "operating_flight_no": "",
+                    "fare_basis": "",
+                    "fare_category": "M",
+                    "fare_classes": "",
+                    "return": 0,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft"
+                },
+                {
+                    "id": "0a7c22f54d450000c34f29ed_0",
+                    "combination_id": "0a7c22f54d450000c34f29ed",
+                    "flyFrom": "ORY",
+                    "flyTo": "LGW",
+                    "cityFrom": "Paris",
+                    "cityCodeFrom": "PAR",
+                    "cityTo": "London",
+                    "cityCodeTo": "LON",
+                    "local_departure": "2024-02-28T18:25:00.000Z",
+                    "utc_departure": "2024-02-28T17:25:00.000Z",
+                    "local_arrival": "2024-02-28T18:30:00.000Z",
+                    "utc_arrival": "2024-02-28T18:30:00.000Z",
+                    "airline": "VY",
+                    "flight_no": 6944,
+                    "operating_carrier": "VY",
+                    "operating_flight_no": "6944",
+                    "fare_basis": "DOWVYCLB",
+                    "fare_category": "M",
+                    "fare_classes": "D",
+                    "return": 1,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft"
+                }
+            ],
+            "booking_token": "GYHHZMT9VpWEIMs2u1Ek9zPXyqUQh6M0-lhJ-XckogwdycYI2trhFsuWpAoFHiCAvXKpsJEcRTyEltIKH8A2Ziokv0rofEuMWFVlByc62gmpnpjQLWX2CJO0FdAh_Z4KmKZbH_zFVwloT5E842994FUoriWtduoDAupovg6S_PPQnEoZm7YbXM-Udsq3b1kwfGWYp3LQPYnQFAaXzzbGOeX-YW7zN7WbhU3Ow6JYc_IjB2P4CykaKz084NFvz8Jr8Sh8pF1t48SksMNi9BDzcqERwinGNLlNoM3WfMsOBeWrgHtTm-1B32GWe0H83MU5bVpLjyJThjoklTUsEXHhOXxgcwJmxTZMW9bRDZQOCUG2fi94WvDxmNJPwjYF0ONxegmsUqLXl3NVIgoPlnfzoiU_f0KnS6uoETwIiCow5zH-3FJrzAg9AxadDv3jdWoRcSgvVxqslN8wUFPoqXHJVWbsiI_UE8uVdjFIVGVzVrWWBKp7fMNi3zJkCxncp0qguXW6QHC5V36vRiTPxl3wv9D7FfmF_FIJDHWg1NOVkTil6FVU4eDHhZsXaYcZ4cX2ZhRxocs_VdtBe7OWye5GgKX1f1CsJugVBtBVLbX5Ov_r5DNvUlJcTAxZ2vYD5FWrEhijXnLQyT2UiPEa-1SnqE2T_mgKoq-ZvImqvfZ5aU3wR7r14v-ZmtwciahbJw4dkMTQ4NbX4FJkK7qadFt8iy3wSCl-bHG6mbgWZGkEI4j4rVRa_jrNqmxJW0bySUdahOvIHuPyuQZZ4N2pBc5_RCg==",
+            "deep_link": "https://www.kiwi.com/deep?affilid=maristrazflightdeals&currency=GBP&flightsId=204525c34d3e0000ca474728_0%7C0a7c22f54d450000c34f29ed_0&from=SEN&lang=en&passengers=1&to=CDG&booking_token=GYHHZMT9VpWEIMs2u1Ek9zPXyqUQh6M0-lhJ-XckogwdycYI2trhFsuWpAoFHiCAvXKpsJEcRTyEltIKH8A2Ziokv0rofEuMWFVlByc62gmpnpjQLWX2CJO0FdAh_Z4KmKZbH_zFVwloT5E842994FUoriWtduoDAupovg6S_PPQnEoZm7YbXM-Udsq3b1kwfGWYp3LQPYnQFAaXzzbGOeX-YW7zN7WbhU3Ow6JYc_IjB2P4CykaKz084NFvz8Jr8Sh8pF1t48SksMNi9BDzcqERwinGNLlNoM3WfMsOBeWrgHtTm-1B32GWe0H83MU5bVpLjyJThjoklTUsEXHhOXxgcwJmxTZMW9bRDZQOCUG2fi94WvDxmNJPwjYF0ONxegmsUqLXl3NVIgoPlnfzoiU_f0KnS6uoETwIiCow5zH-3FJrzAg9AxadDv3jdWoRcSgvVxqslN8wUFPoqXHJVWbsiI_UE8uVdjFIVGVzVrWWBKp7fMNi3zJkCxncp0qguXW6QHC5V36vRiTPxl3wv9D7FfmF_FIJDHWg1NOVkTil6FVU4eDHhZsXaYcZ4cX2ZhRxocs_VdtBe7OWye5GgKX1f1CsJugVBtBVLbX5Ov_r5DNvUlJcTAxZ2vYD5FWrEhijXnLQyT2UiPEa-1SnqE2T_mgKoq-ZvImqvfZ5aU3wR7r14v-ZmtwciahbJw4dkMTQ4NbX4FJkK7qadFt8iy3wSCl-bHG6mbgWZGkEI4j4rVRa_jrNqmxJW0bySUdahOvIHuPyuQZZ4N2pBc5_RCg==",
+            "facilitated_booking_available": true,
+            "pnr_count": 2,
+            "has_airport_change": false,
+            "technical_stops": 0,
+            "throw_away_ticketing": false,
+            "hidden_city_ticketing": false,
+            "virtual_interlining": false
+        }
+    ],
+    "_results": 1
+}
